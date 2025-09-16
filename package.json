@@ -6,6 +6,7 @@
   "scripts": {
     "ssh": "node tools/ssh-tunnel.js",
     "api": "node tools/api-runner.js",
+    "xlsx": "node tools/api-xlsx.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["dev-tools", "toolkit", "ssh", "tunnel", "development"],
